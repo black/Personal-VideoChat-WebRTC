@@ -1,0 +1,19 @@
+{
+  "name": "personal-videochat-webrtc",
+  "version": "1.0.0",
+  "description": "WebRTC based video chat app for peer to peer video conferencing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/black/Personal-VideoChat-WebRTC.git"
+  },
+  "author": "black",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/black/Personal-VideoChat-WebRTC/issues"
+  },
+  "homepage": "https://github.com/black/Personal-VideoChat-WebRTC#readme"
+}
